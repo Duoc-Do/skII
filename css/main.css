@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+}
+
+@media screen and (min-width: 897px) {
+  .ml_LP {
+    width: 760px;
+    margin: 0 auto;
+  }
+}
+
+.ml_LP .section-1 {
+  background: url("../img/bg_1.png") left bottom #ff6b00 no-repeat;
+  background-size: contain;
+  text-align: center;
+  padding-top: 6%;
+  padding-bottom: 6%;
+}
+
+.ml_LP .section-1 .section-1__text-1 {
+  margin: 0 auto;
+  margin-bottom: 10%;
+  width: 20%;
+  height: auto;
+  display: block;
+}
+
+.ml_LP .section-1 .section-1__text-2 {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 4%;
+  width: 16%;
+}
+
+.ml_LP .section-1 .section-1__text-3 {
+  margin-left: 12px;
+  margin-bottom: 4%;
+  width: 84%;
+}
+
+.ml_LP .section-1 .section-1__text-4 {
+  width: 49%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 3%;
+}
+
+.ml_LP .section-1 .section-1__text-5 {
+  width: 83%;
+}
+
+.ml_LP .section-1 .section-1__buy-now {
+  width: 38%;
+  height: auto;
+}
+
+.ml_LP .section-1 .section-1__product-1 {
+  margin-top: -2%;
+  margin-left: -29px;
+  margin-bottom: -8%;
+  width: 95%;
+  height: auto;
+}
+
+.ml_LP .section-2 {
+  background: url("../img/bg_3.png") left top no-repeat, url("../img/bg_2.png") left center no-repeat;
+  background-size: contain;
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 6%;
+}
+
+.ml_LP .section-2 .section-2__text-1 {
+  padding-left: 16px;
+  margin-bottom: 3%;
+  width: 82%;
+  height: auto;
+}
+
+.ml_LP .section-2 .section-2__text-2 {
+  margin-bottom: -7%;
+  width: 56%;
+  height: auto;
+}
+
+.ml_LP .section-2 .section-2__product-2 {
+  width: 93%;
+  height: auto;
+  margin-left: -52px;
+}
+
+.ml_LP .section-2 .section-2__buy-now {
+  width: 38%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  margin-top: -6%;
+}
+
+.ml_LP .section-2 .section-2__text-3 {
+  width: 84%;
+  height: auto;
+  margin-top: 3.5%;
+}
